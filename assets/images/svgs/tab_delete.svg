@@ -1,0 +1,6 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="var(--panel-header-icon)" xmlns="http://www.w3.org/2000/svg">
+    <path
+        d="M6.667 9.334h10.666V18a.667.667 0 0 1-.666.667H7.333A.667.667 0 0 1 6.667 18V9.334zM8 10.667v6.667h8v-6.667H8zM10 12h1.333v4H10v-4zm2.667 0H14v4h-1.333v-4zm-4-4.667V6a.667.667 0 0 1 .666-.667h5.334a.667.667 0 0 1 .666.667v1.333h3.334v1.334H5.333V7.334h3.334zM10 6.667v.667h4v-.667h-4z"
+      fill="var(--panel-header-icon)"
+    />
+</svg>

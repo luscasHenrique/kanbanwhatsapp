@@ -1,0 +1,25 @@
+
+div._21S-L > span._7T_0D,
+div[data-testid="conversation-info-header"] > div > div._21nHd
+{
+    background-color: #ffffff1f;
+    border-radius: 55px;
+    filter: blur(10px);
+    width: 60%;
+}
+
+
+
+span._7T_0D > span[class="ggj6brxn gfz4du6o r7fjleex g0rxnol2 lhj4utae le5p0ye3 l7jjieqr _11JPr"],
+div._21nHd > span[data-testid="conversation-info-header-chat-title"]
+{
+    top: 99999px;
+}
+
+
+
+section.tvf2evcx.oq44ahr5.lb5m6g5c.s9fl9ege > div > div.p357zi0d.ktfrpxia.nu7pwgvd.fhf7t426.f8m0rgwh.gndfcl4n
+{
+    filter: blur(5px);
+    transition-delay: 0s;
+}

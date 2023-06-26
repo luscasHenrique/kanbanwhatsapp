@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="30" height="30" x="0" y="0" viewBox="0 0 20 20" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+    <g transform="matrix(1,0,0,1,0,0)">
+        <path fill="var(--panel-header-icon)" fill-rule="evenodd" d="M4 4a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-5L9 4zm6 10a1 1 0 0 1-1-1v-1H8a1 1 0 1 1 0-2h1V9a1 1 0 1 1 2 0v1h1a1 1 0 1 1 0 2h-1v1a1 1 0 0 1-1 1z" clip-rule="evenodd" data-original="#000000" class=""></path>
+    </g>
+</svg>

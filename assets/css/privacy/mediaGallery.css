@@ -1,0 +1,13 @@
+
+._2E0wf > div > div > div >  .g0rxnol2.ln8gz9je.ppled2lx[data-testid="media-url-provider"],
+._2pktu._2MmTH._3VqhE > div > div[data-testid="media-video"],
+._52crR > div > div > div[data-testid="media-canvas-img"],
+._1FS45 > div > div > div[data-testid="media-url-provider"],
+div[data-testid="media-canvas"] > div[data-testid="media-canvas-img"],
+div[data-testid="media-canvas"] > div > div[data-testid="media-url-provider"]
+{
+    filter: blur(30px);
+    transition-delay: 0s;
+}
+
+

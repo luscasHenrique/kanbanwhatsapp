@@ -1,0 +1,8 @@
+div[data-testid="media-url-provider"] > div> img,
+div[data-testid="video-content"] > div.lhggkp7q.paaq2zjn.s4eafire.jnl3jror.kk3akd72.ln8gz9je.ppled2lx.m7o6y653.pfv1hzq5.bgtrvtbx.l8dmboli.delct6vn.qnwaluaf,
+div.cm280p3y.m3h9lho3.lna84pfr.psacz3a6.rku33uoa.mmw11n2j > button[data-testid="document-thumb"],
+div.cm280p3y.m3h9lho3.lna84pfr.psacz3a6.f83pkj4x.mmw11n2j > button[data-testid="document-thumb"]
+{
+    filter: blur(30px);
+    transition-delay: 0s;
+}

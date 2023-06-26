@@ -1,0 +1,10 @@
+{
+    "extName": {
+    "message": "Waspeed",
+    "description": "Nombre de la extensión"
+    },
+    "extDesc": {
+    "message": "Waspeed es un CRM para WhatsApp Web. Organiza tus chats y optimiza tu negocio en WhatsApp Web",
+    "description": "Descripción de la extensión"
+    }
+}

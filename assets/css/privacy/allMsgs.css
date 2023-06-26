@@ -1,0 +1,10 @@
+.n5hs2j7m.oq31bsqd.gx1rr48f.qh5tioqs > div[role="row"]{
+    filter: blur(4px);
+    transition-delay: 0s;
+}
+
+div[data-testid="image-thumb"] > .g0rxnol2.ln8gz9je.ppled2lx[data-testid="media-url-provider"],
+.cm280p3y.cf2oroyo.g0rxnol2.jnl3jror.ocd2b0bc.folpon7g.aa0kojfi.snweb893 > div[data-testid="video-content"]{
+    filter: blur(30px);
+    transition-delay: 0s;
+}
